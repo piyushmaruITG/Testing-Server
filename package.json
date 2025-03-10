@@ -1,0 +1,17 @@
+{
+  "name": "dop-shopify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dop-shopify": "file:",
+    "express": "^4.21.2",
+    "shopify-api-node": "^3.14.2"
+  }
+}
